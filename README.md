@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BLAAK1
-- 👀 I’m interested in Web-Development. C++
-- 🌱 I’m currently JavaScript, React and PHP
+- 👀 I’m interested in Web-Development.
+- 🌱 I’m currently learning JavaScript, React and PHP
