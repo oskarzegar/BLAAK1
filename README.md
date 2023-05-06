@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @BLAAK1
+- 👋 Hi, my name is Oskar
 - 👀 I’m interested in Web-Development.
-- 🌱 I’m currently learning JavaScript, React and PHP
+- 🌱 I’m currently learning JavaScript and PHP
